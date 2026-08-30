@@ -1,2 +1,6 @@
 ##dev branch
-PORT=4000
+<<<<<<< HEAD
+PORT=5000
+=======
+PORT=5000
+>>>>>>> dev
